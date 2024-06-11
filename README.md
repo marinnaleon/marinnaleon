@@ -13,7 +13,7 @@ Atualmente trabalho na Amazon, estou me especializando em Python e Power BI, e e
   <img align="center" alt="Mari-PowerBi" height="30" width="40" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000">
   <img align="center" alt="Mari-QuickSight" height="30" width="40" src="https://img.icons8.com/?size=100&id=QxmAaEi7H05k&format=png&color=000000">
-  <img align="center" alt="Mari-IBMCognos" height="30" width="40" src="https://img.icons8.com/?size=100&id=24662&format=png&color=000000">
+  <img align="center" alt="Mari-IBMCognos" height="30" width="40" src="https://img.icons8.com/?size=100&id=31754&format=png&color=000000">
  </div>
   
   ## Contato
