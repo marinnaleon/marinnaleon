@@ -4,7 +4,6 @@
   <a href="https://discord.gg/DPNHwpen" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  	<a href = "mailto:marimonique2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marinamleon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   <div style="display: inline_block"><br>
   <img align="center" alt="Mari-SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000">
    <img align="center" alt="Mari-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
@@ -12,8 +11,6 @@
   <img align="center" alt="Mari-QuickSight" height="30" width="40" src="https://img.icons8.com/?size=100&id=21295&format=png&color=000000">
   <img align="center" alt="Mari-IBMCognos" height="30" width="40" src="https://img.icons8.com/?size=100&id=31754&format=png&color=000000">
  </div>
-  
-Aqui você encontrará informações sobre mim e alguns dos meus projetos!
 
 ## Sobre mim
 
@@ -22,8 +19,6 @@ Eu sou uma Analista de Dados apaixonada por aprender novas tecnologias e criar s
 Atualmente trabalho na Amazon, estou me especializando em Python, SQL e Power BI, e estou sempre buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores. Além disso, tenho interesse em tópicos relacionados a ciência de dados e inteligência artificial.
 
 # EN: Hi, my name is Marina Leon 👋
-
-Here you'll find information about me and some of my projects!
 
 ## About me
 
