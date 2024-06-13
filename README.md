@@ -4,7 +4,7 @@ Aqui você encontrará informações sobre mim e alguns dos meus projetos!
 
 ## Sobre mim
 
-Eu sou uma Analista de Dados apaixonada por aprender novas tecnologias e criar soluções inovadoras. Minha jornada em Data Analysis em 2022, quando trabalhava na IBM Brasil.
+Eu sou uma Analista de Dados apaixonada por aprender novas tecnologias e criar soluções inovadoras. Minha jornada em Data Analysis começou em 2022, quando trabalhava na IBM Brasil.
 
 Atualmente trabalho na Amazon, estou me especializando em Python, SQL e Power BI, e estou sempre buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores. Além disso, tenho interesse em tópicos relacionados a ciência de dados e inteligência artificial.
 
